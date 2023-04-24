@@ -1,0 +1,44 @@
+.linear{
+	
+background:linear-gradient(to bottom,#05e905b5,#0000ff85),url("../image/1.jpg");
+background-size:cover;
+
+background-position:center;
+height:500px;
+width:70%;
+
+ 
+}
+.sheik{
+	
+background:linear-gradient(to left,#05bf75a3,#ff00c8eb),url("../image/2.jpg");
+background-size:cover;
+
+background-position:center;
+height:500px;
+width:70%;
+
+ 
+}
+.sheik1{
+	
+background:linear-gradient(to right,#82b53ff0,#ff5722bd),url("../image/3.jpg");
+background-size:cover;
+
+background-position:center;
+height:500px;
+width:70%;
+
+ 
+}
+.sheik2{
+	
+background:linear-gradient(to top,#bf050fbd,#001fff),url("../image/8.jpg");
+background-size:cover;
+
+background-position:center;
+height:500px;
+width:70%;
+
+ 
+}
